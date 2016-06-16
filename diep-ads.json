@@ -3,5 +3,6 @@
 	"interstitial": true,
 	"skippable" : true,
 	"nonskippable" : true,
-	"rewarded" : true
+	"rewarded" : true,
+	"disableNetworks" : ["amazon_ads", "applovin", "chartboost", "wrong"]
 }
