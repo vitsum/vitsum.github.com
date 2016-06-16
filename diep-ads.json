@@ -2,6 +2,6 @@
 	"enabled": true,
 	"interstitial": true,
 	"skippable" : true,
-	"nonskippable" : false,
+	"nonskippable" : true,
 	"rewarded" : true
 }
