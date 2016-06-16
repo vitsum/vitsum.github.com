@@ -1,0 +1,8 @@
+{
+	"enabled": true,
+	"interstitial": true,
+	"skippable" : true,
+	"nonskippable" : true,
+	"rewarded" : true,
+	"disableNetworks" : []
+}
